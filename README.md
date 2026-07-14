@@ -2,6 +2,7 @@
 **Undergraduate Computer Science student at Boston University**
 <!-- About -->
 > Current Software Engineer Intern at *Capital One*
+> 
 > Previous Software Engineer Co-op at *Tive Inc*
 <!-- Hackathon -->
 Check out my project, [CheckmAIt](https://github.com/ajlaz/checkmait), which took first place at BostonHacks 2025!
